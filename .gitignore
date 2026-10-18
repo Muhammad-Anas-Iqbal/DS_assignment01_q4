@@ -1,0 +1,13 @@
+
+# Raw data files
+*.csv
+*.xlsx
+*.json
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Secret files
+.env
+.env.*
+!.env.example
